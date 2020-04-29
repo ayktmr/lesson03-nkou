@@ -1255,11 +1255,16 @@ footer .footer_sitemap a:hover {
 }
 footer .footer_sitemap ul li {
 	font-size: 0.9rem;
+	font-weight: bold;
 	margin-bottom: 10px;
 }
+footer ul li.footer_sitemap_head_exc,
 footer ul li.footer_sitemap_head {
 	font-size: 1rem;
 	color: #000066;
+}
+footer ul li.footer_sitemap_head {
+	padding-top: 10px;
 }
 footer ul li.footer_sitemap_line {
 	border-bottom: 1px solid #c9c9c9;
