@@ -1284,6 +1284,7 @@ footer .footer_sitemap {
 }
 footer .footer_sitemap span {
 	font-size: 0.4rem;
+	display: block;
 }
 
 /* footer_sns */
